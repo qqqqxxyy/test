@@ -1,0 +1,41 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Cpp_project/webserver"
+		},
+		{
+			"path": "../../简历"
+		},
+		{
+			"path": "../../database/duck_db"
+		},
+		{
+			"path": "../../database/mysql"
+		},
+		{
+			"path": "../../../jupyter/learn/cpp_learn"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tcc": "cpp",
+			"functional": "cpp",
+			"iostream": "cpp",
+			"ostream": "cpp",
+			"random": "cpp",
+			"array": "cpp",
+			"bitset": "cpp",
+			"string_view": "cpp",
+			"initializer_list": "cpp",
+			"regex": "cpp",
+			"utility": "cpp",
+			"valarray": "cpp",
+			"vector": "cpp",
+			"cmath": "cpp",
+			"complex": "cpp"
+		}
+	}
+}
