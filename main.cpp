@@ -4,7 +4,7 @@ int main(int argc, char *argv[])
 {
     //需要修改的数据库信息,登录名,密码,库名
     string user = "root";
-    string passwd = "1231";
+    string passwd = "qxy123";
     string databasename = "yourdb";
 
     //实例化参数解析类,同时实例化函数中包含了对于变量的初始化
